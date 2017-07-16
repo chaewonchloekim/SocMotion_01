@@ -26,6 +26,10 @@ typedef struct _Edge{
 	int y;
 } Edge;
 
+int a;
+int b;
+int c;
+int d;
 
 void show_help(void)
 {
